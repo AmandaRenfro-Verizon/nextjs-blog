@@ -1,3 +1,5 @@
+# Changes made in nextjs-blog/basics/learn-starter/nextjs-blog/
+
 # next-learn-starter
 
 This repository contains starter templates for [Learn Next.js](https://nextjs.org/learn).
